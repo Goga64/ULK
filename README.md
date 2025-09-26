@@ -1,14 +1,14 @@
 # ULK
 
-Low profile split keyboard with Corne 42 Layout and Cerry ULP switches. Made to be used on top of a laptop keyboard to provide the ulimate split experince on the go. \
+Low profile split keyboard with Corne 42 Layout and Cerry ULP switches. Made to be used on top of a laptop keyboard to provide the ulimate split experince on the go. 
 
-Due to the avalibaility of the ULP switches only the Click version was avaliable which is nice for home, however too lound for work at public places.\
+Due to the avalibaility of the ULP switches only the Click version was avaliable which is nice for home, however too lound for work at public places.
 
 Things to do: \
    &emsp; Solder up the proper batteries.\
    &emsp; Add support for solar charging.\
    &emsp; Build a version with 35g PG1316s.\
-   &emsp; Change the reset button to a lower profile SMD version.\
+   &emsp; Change the reset button to a lower profile SMD version.
    
 
 
