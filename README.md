@@ -11,6 +11,7 @@ Due to the availability of the ULP switches only the Click version was available
    - [Gallery](#Gallery)
    - [BOM](#BOM)
    - [Firmware](#Firmware)
+   - [Inspirations](#Inspirations)
 ## Disclamer
 
 This Design is still under development and has [Issues](#Issues)!
@@ -81,7 +82,10 @@ You can use the standart Conre ZMK firmware.
 I use a modified verion of the MC Technology's zmk-config [GitHub link](https://github.com/Goga64/zmk-config-ULK).
 My version also allows for 4 halfs of a spit be connected with to one Dongle at the same time.
 
-
-
+## Inspirations
+- [foostan/crkbd](https://github.com/foostan/crkbd)
+- [mctechnology17/zmk-config)](https://github.com/mctechnology17/zmk-config)
+- [pashutk/Cherry_MX_ULP](https://github.com/pashutk/Cherry_MX_ULP)
+- [zmk-config-mikefive](https://github.com/mikeholscher/zmk-config-mikefive)
 
 
