@@ -2,7 +2,8 @@
 
 Low profile split keyboard with Corne 42 Layout and Cherry ULP switches. Made to be used on top of a laptop keyboard to provide the ultimate split experience on the go. 
 
-Due to the availability of the ULP switches only the Click version was available which is nice for home, however too loud for work at public places.
+![169full](https://github.com/user-attachments/assets/05deb97c-3cea-4f9b-9afd-9c0f920b93a3)
+
 
 ## Contents
    - [Disclamer](#Disclamer)
@@ -15,6 +16,7 @@ Due to the availability of the ULP switches only the Click version was available
 ## Disclamer
 
 This Design is still under development and has [Issues](#Issues)!
+Due to the availability of the ULP switches only the Click version was available which is nice for home, however too loud for work at public places. 
 
 ## Issues: 
    Current Issues:
@@ -29,7 +31,7 @@ This Design is still under development and has [Issues](#Issues)!
 
 
 ## Gallery
-![169full](https://github.com/user-attachments/assets/05deb97c-3cea-4f9b-9afd-9c0f920b93a3)
+
 ![169su](https://github.com/user-attachments/assets/6171a4a0-babd-41de-bf22-33484fe64383)
 ![169pcb](https://github.com/user-attachments/assets/975600b9-8b46-49eb-9b58-9a906919e12c)
 <img width="3246" height="1263" alt="ULK v7" src="https://github.com/user-attachments/assets/6b71d21b-0977-4e59-85f4-adc084f5ee60" />
@@ -44,7 +46,7 @@ This Design is still under development and has [Issues](#Issues)!
 
 | Name             | Specification                                                                 | Notes                                             |
 |------------------|-------------------------------------------------------------------------------|---------------------------------------------------|
-| Switches         | Cherry ULP or Kailh PG1316S                                                   | —                                                 |
+| Switches         | Cherry ULP or Kailh PG1316S                                                   | You can find more about the ULP at [Cherry_MX_ULP](https://github.com/pashutk/Cherry_MX_ULP)                                                |
 | Keycaps          | 1U Kailh PG1316S Keycaps                                                      | —                                                 |
 | Diodes           | 1N4148W in SOD-123 package                                                    | —                                                 |
 | Microcontroller  | SuperMini NRF52840                                                            | Compatible with nice!nano V2 and alternatives ([GitHub link](https://github.com/joric/nrfmicro/wiki/Alternatives)) |
@@ -84,8 +86,9 @@ My version also allows for 4 halfs of a spit be connected with to one Dongle at 
 
 ## Inspirations
 - [foostan/crkbd](https://github.com/foostan/crkbd)
-- [mctechnology17/zmk-config)](https://github.com/mctechnology17/zmk-config)
+- [mctechnology17/zmk-config](https://github.com/mctechnology17/zmk-config)
 - [pashutk/Cherry_MX_ULP](https://github.com/pashutk/Cherry_MX_ULP)
 - [zmk-config-mikefive](https://github.com/mikeholscher/zmk-config-mikefive)
+- [ZMK](https://zmk.dev/)
 
 
