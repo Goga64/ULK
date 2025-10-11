@@ -20,7 +20,7 @@ Due to the availability of the ULP switches only the Click version was available
 
 ## Issues: 
    Current Issues:
-   - Hole attachment point interferes with USB-C charging cables. (These also truned out to be not needed so they will be removed)
+   - Hole attachment point interferes with USB-C charging cables. (These also truned out to be not needed so they will be removed) FIXED in V1.0.3 please check which gerger file you are uising
    - Battery connection should be changed form a through hole to SMD, so there are no chances of shorting a battery when putting keyboard on
 
 ## Things to do: 
