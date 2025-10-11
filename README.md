@@ -28,6 +28,7 @@ Due to the availability of the ULP switches only the Click version was available
    - Add support for solar charging.
    - Build a version with 35g PG1316s.
    - Change the reset button to a lower profile SMD version.
+   - Add a 3x5 option.
 
 
 ## Gallery
@@ -49,7 +50,7 @@ Due to the availability of the ULP switches only the Click version was available
 | Diodes           | 1N4148W in SOD-123 package                                                    | —                                                 |
 | Microcontroller  | SuperMini NRF52840                                                            | Compatible with nice!nano V2 and alternatives ([GitHub link](https://github.com/joric/nrfmicro/wiki/Alternatives)) |
 | Power switch     | 7Pin Mini Slide Switch                                                        | —                                                 |
-| Reset button     | 3x6x4.3mm push button                                                         | Will to an smd one after testing samples          |
+| Reset button     | 3x6x4.3mm push button                                                         | Will change to an smd one after testing samples   |
 | Battery          | ~100mAh 401525 LiPo or smaller                                                | Prototype photos show 750mAh HiV battery due to shipping delays |
 
 ## Optional Components
