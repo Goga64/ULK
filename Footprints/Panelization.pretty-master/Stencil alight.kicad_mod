@@ -1,0 +1,77 @@
+(footprint "Stencil alight"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.1 -3.7 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "f6d09fb7-8f47-4f4c-a702-42ac8a98fa7d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Stencil alight"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "65f797da-40b1-4f48-a79c-e88e281eb04e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "26cb6d1f-8136-450f-a23f-86c2392d9960")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "81b0766c-5e32-4641-946c-d3454072c41d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "ba49ef6d-30bc-40e2-acc9-b4d8760a87f0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 0.8 0.8)
+		(drill 0.75)
+		(layers "F&B.Cu" "*.Paste" "*.Mask")
+		(uuid "978be7a4-7dff-4cac-84a3-da1a330a7bdc")
+	)
+	(embedded_fonts no)
+)
