@@ -25,7 +25,6 @@ I prefer the sound of the ULP Click, although it is still not as nice as the ful
 ### Feel
 The Cherry ULP feel quite satifying to type on, however they are a bit heavy coming in at 65g. The PG1316s though I'm not as impressed by, I got the 35g version which is very light, it makes the typing feel effortless, it doesn't really feel like anything. With it I also struggle with typos while writing as extra letters will just appear out of nowhere. It is definetry something I need to get used to before I can give a better oppinion. I will probably want to try the 60g version of them in the future and if they made a 50g version I would build another keeb with them immediately.  
 
-## Solar
 
 ## Firmware
 The non-solar versions use standard Conre ZMK firmware.
@@ -61,9 +60,9 @@ They were taken on a Cannon EOS5D mkii (2008) and an EF 24-70mm F/2.8 USM lens.
 I had a lot of fun focus stacking them for the best sharpness.
 
 
-# BOM
+# BOM 
 
-## Main Components
+## Main Components (for the non solar version)
 
 | Name             | Specification                                                                 | Notes                                             |
 |------------------|-------------------------------------------------------------------------------|---------------------------------------------------|
